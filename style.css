@@ -6,6 +6,11 @@ body{
     background: black;
 }
 
+p{
+    display: flex;
+    text-align: center;
+}
+
 a{
     text-decoration: none;
 }
