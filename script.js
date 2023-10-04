@@ -13,4 +13,6 @@ function yes(){
     buttony.innerHTML = 'Resposta registrada!'
     buttony.style.width = '100px'
     buttony.style.height = '70px'
+    buttony.style.backgroundColor = 'green'
+    buttony.style.color = 'white'
 }
