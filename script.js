@@ -10,7 +10,7 @@ button.addEventListener('mouseover' , function() {
 })
 
 function yes(){
-    buttony.innerHTML = 'Resposta registrada!'
+    buttony.innerHTML = 'Resposta registrada! ;)'
     buttony.style.width = '100px'
     buttony.style.height = '70px'
     buttony.style.backgroundColor = 'green'
